@@ -4,7 +4,7 @@
   ## random state 42
   - ratio 1 : 0.9054 
   - ratio 1.5 : 0.9154
-  - ratio 2 : 0.9020 
+  - ratio 2 : 0.9021
 
   ## random state 38
   - ratio 1 : 0.9196
