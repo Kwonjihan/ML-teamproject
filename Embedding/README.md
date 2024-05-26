@@ -11,8 +11,9 @@
   - ratio 1.5 : 0.9167
 
   ## random state 7
-  - ratio 1 :
-  - ratio 1.5 :
+  - ratio 1 : 0.9088
+  - ratio 1.5 : 0.8954
+  - ratio 2 :  0.9042
 
 ---
 
