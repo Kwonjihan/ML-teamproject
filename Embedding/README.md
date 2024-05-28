@@ -9,12 +9,17 @@
   ## random state 38
   - ratio 1 : 0.9196
   - ratio 1.5 : 0.9167
-
+  - ratio 2 : 0.9104
   ## random state 7
   - ratio 1 : 0.9088
   - ratio 1.5 : 0.8954
   - ratio 2 :  0.9042
 
+
+    ### AVERAGE
+      - ratio 1 : 0.9113
+      - ratio 1.5 : 0.9092
+      - ratio 2 : 0.9056
 ---
 
 # MODEL PARAMETER 
